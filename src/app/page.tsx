@@ -14,8 +14,8 @@ const SAMPLE_VIDEOS: Video[] = [
     id: 'video-1',
     title: 'Introduction to JavaScript',
     description: 'Learn the basics of JavaScript programming language.',
-    url: '/videos/intro-js.mp4',
-    thumbnail: '/api/placeholder/400/225',
+    url: '/videos/react-hooks.mp4',
+    thumbnail: '/videos/thumbnail.png',
     duration: 300 // 5 minutes
   },
   {
@@ -23,15 +23,15 @@ const SAMPLE_VIDEOS: Video[] = [
     title: 'Advanced React Hooks',
     description: 'Dive deep into React Hooks and learn advanced patterns.',
     url: '/videos/react-hooks.mp4',
-    thumbnail: '/api/placeholder/400/225',
+    thumbnail: '/videos/thumbnail.png',
     duration: 480 // 8 minutes
   },
   {
     id: 'video-3',
     title: 'CSS Grid Layout',
     description: 'Master CSS Grid layout for modern web design.',
-    url: '/videos/css-grid.mp4',
-    thumbnail: '/api/placeholder/400/225',
+    url: '/videos/react-hooks.mp4',
+    thumbnail: '/videos/thumbnail.png',
     duration: 420 // 7 minutes
   }
 ];
